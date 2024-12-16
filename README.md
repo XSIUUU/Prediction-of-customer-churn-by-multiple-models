@@ -12,7 +12,7 @@ This project predicts customer churn for a Dutch energy supplier using multiple 
 4. [Models Developed](#models-developed)
 5. [Results](#results)
 6. [Key Findings](#key-findings)
-7. [Repository Contents](#Repository-Contents)
+7. [Repository Contents](#repository-contents)
 
 ---
 
