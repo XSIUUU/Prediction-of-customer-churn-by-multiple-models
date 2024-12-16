@@ -51,7 +51,7 @@ The dataset consists of **20,000 customers** with 14 variables:
 
 ---
 
-## Models Developed 🧠
+## Models Developed ✨
 - **Logistic Regression**: Baseline model
 - **Tree-Based Models**: CART, Random Forest (Tuned)
 - **Ensemble Methods**: Bagging, Boosting
