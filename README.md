@@ -10,18 +10,14 @@ This project predicts customer churn for a Dutch energy supplier using multiple 
 2. [Dataset](#dataset)
 3. [Project Steps](#project-steps)
 4. [Models Developed](#models-developed)
-5. [Key Findings](#key-findings)
-6. [Code and Files](#code-and-files)
-7. [How to Run](#how-to-run)
-8. [Results](#results)
-9. [Conclusion and Recommendations](#conclusion-and-recommendations)
+5. [Results](#results)
+6. [Key Findings](#key-findings)
+7. [Repository Contents](#Repository-Contents)
 
 ---
 
 ## Business Problem 📊
 The primary goal is to predict which customers are most likely to churn and provide actionable insights for retention strategies.
-
-> **Churn Definition**: When a customer cancels their energy service and switches to another provider.
 
 ---
 
@@ -84,3 +80,12 @@ The dataset consists of **20,000 customers** with 14 variables:
 3. High accuracy and reliability were achieved using ensemble models (e.g., Boosting).
 
 ---
+## 📁 Repository Contents  
+
+| **File Name**                       | **Description**                                                                 |
+|-------------------------------------|-------------------------------------------------------------------------------|
+| **`assignment 1 churn prediction.R`** | R script containing code for data cleaning, transformation, exploratory analysis, model building, and validation for churn prediction. |
+| **`Churn data.csv`**                 | Dataset used for the churn prediction project, containing relevant customer details.  |
+| **`Final Report.pdf`**               | Comprehensive report detailing the methodology, analysis, findings, and model evaluations. |
+| **`Assignment requirement Churn prediction.pdf`** | Document outlining the assignment requirements, objectives, and deliverables. |
+
